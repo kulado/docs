@@ -1,0 +1,19 @@
+/*/.classpath
+/*/.project
+/*/.settings
+/*/bin
+/*/gen
+/*/target
+/*/build
+/out
+/.idea
+/.project
+*.iml
+node_modules
+import_test
+teedy-importer-linux
+teedy-importer-macos
+teedy-importer-win.exe
+# Please output directory
+plz-out
+*-e
